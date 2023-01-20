@@ -1,0 +1,33 @@
+# Weekly Challenge 02: Logical Primitives
+# CS/MATH 113 Discrete Mathematics, Spring 2023
+***
+
+Weekly challenges (WC) invite you to critically engage with the topics covered up to that week. They may take on a variety of formats and be available and attempted through diverse platforms as the semester progresses. They may be attempted individually or in teams as indicated. If in teams, the intention is for the buddies to discuss the solution among themselves, rather than splitting the tasks among themselves.
+
+# Purpose
+
+This WC invites you to think about logical connectives or operators, and explore which can be used to implement the others. You may need to spend a good amount of time thinking about this problem and it is unlikely that you will get it in a single sitting. Start discussing the problem with your buddy early.
+
+# Background
+
+To attempt and submit the task you will need
+- knowledge of the logical connectives
+- the ability to make truth tables
+- the time and persistence to think over the problem
+- comfort with GitHub and LaTeX
+
+# Task and Submission
+
+The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file. Make sure to include any supporting files needed for successful compilation. The same file at the time of the submission deadline will be taken to be your submission.
+
+# Submission and Grading
+
+The score earned by your submission will be assigned to the team assuming that the buddies contributed equally. To confirm, teams will be occasionally called in for a viva on their submission. If any of the members is unable to explain the submission or does not appear for the scheduled viva, they will lose marks not only for that WC but for previous WCs in which they were awarded marks base don trust.
+
+# Deadline and discussion
+
+_Deadline_: 2359h on Sun, 29 Jan
+
+For discussion on the WC, please use the related Canvas discussion thread.
+
+viel Spass!
