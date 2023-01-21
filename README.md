@@ -20,9 +20,9 @@ To attempt and submit the task you will need
 
 The task for this WC is explained in the accompanying prompt which is to be compiled in LaTeX. You will enter your solution in the indicated space in the same file. Make sure to include any supporting files needed for successful compilation. The same file at the time of the submission deadline will be taken to be your submission.
 
-# Submission and Grading
+# Grading
 
-The score earned by your submission will be assigned to the team assuming that the buddies contributed equally. To confirm, teams will be occasionally called in for a viva on their submission. If any of the members is unable to explain the submission or does not appear for the scheduled viva, they will lose marks not only for that WC but for previous WCs in which they were awarded marks base don trust.
+The score earned by your submission will be assigned to the team assuming that the buddies contributed equally. To confirm, teams will be occasionally called in for a viva on their submission. If any of the members is unable to explain the submission or does not appear for the scheduled viva, _the team_ will lose marks not only for that WC but for previous WCs in which they were awarded marks based on trust. You are encouraged to report non-contributing buddies through the [appropriate form](https://hulms.instructure.com/courses/2619/quizzes/7186).
 
 # Deadline and discussion
 
